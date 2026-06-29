@@ -8,7 +8,7 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Tab 1',  url: 'facts'}
-- {name: 'Tab 2, url: 'resources'}
+- {name: 'Tab 2', url: 'resources'}
 - {name: 'Tab 3',       url: 'sample-posts'}
 - {name: 'Tab 4',      url: 'documentation'}
 - {name: 'Tab 5',              url: 'about'}
