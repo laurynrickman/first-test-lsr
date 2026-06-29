@@ -27,3 +27,25 @@ $codepen-color: black;
 $rss-color: #ff6600;
 
 @import "-sections-dir";
+
+.menu-list {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #333;
+  padding: 10px 0;
+}
+
+.menu-link {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 8px 16px;
+  transition: background 0.3s;
+}
+
+.menu-link:hover {
+  background-color: #555;
+  border-radius: 4px;
+}
+
